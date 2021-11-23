@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "660016115361",
+    "project_id": "car-shopping-345a1",
+    "storage_bucket": "car-shopping-345a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660016115361:android:7f6330de716c51d01ecae0",
+        "android_client_info": {
+          "package_name": "com.example.carshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660016115361-p8hjijlid9o6ljfrtf9vnjb0ja0c0io5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carshop",
+            "certificate_hash": "acd6b935742f49809abe847230322fd3c087630a"
+          }
+        },
+        {
+          "client_id": "660016115361-6asblh533gplul83q46qg0r37nlb20v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG9mSwJD6EDlUz8ALqhwFK3tnFEiiwmM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660016115361-6asblh533gplul83q46qg0r37nlb20v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
